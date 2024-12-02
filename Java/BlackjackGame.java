@@ -12,7 +12,7 @@ public class BlackjackGame {
     }
 
     public void play() {
-        Scanner scan = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
 
         System.out.println("Welcome to a special edition of Black Jack. This is Christmas Themed!");
         System.out.println("Today we'll be spreading our Christmas Spirit with a game to 21!" + "\n");
